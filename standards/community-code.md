@@ -92,19 +92,8 @@ This Code belongs to everyone who chooses to adopt it.
 
 ---
 
-## How to Adopt This Code
+### Attribution
 
-The Open Heat Community Code is intentionally flexible and may be adopted in a variety of ways.
+This work is based on the Open Heat Community Code by the Open Heat Initiative and is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-You may choose to:
-- Adopt the Code as written
-- Adapt it to reflect local context or community needs
-- Use it as a foundation for your own community standards
-- Translate it into other languages
-
-When adopting or adapting the Code:
-- Clearly attribute the Open Heat Community Code
-- Indicate whether changes have been made
-- Apply it in a way consistent with its values based intent
-
-Adoption of this Code does not imply endorsement, affiliation, or governance by the Open Heat Initiative or any other organization.
+Changes may have been made.
