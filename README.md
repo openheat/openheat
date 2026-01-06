@@ -105,3 +105,13 @@ The Open Heat Initiative is independent and community driven. While platforms an
 
 The goal is simple:  
 A more respectful, inclusive, and unified spicy community built together.
+
+---
+
+## Name and Marks
+
+The Open Heat Community Code is licensed under Creative Commons and may be freely used and adapted.
+
+The name “Open Heat Initiative” and related branding are not covered by the Creative Commons license and are maintained to prevent misuse and confusion.
+
+See `TRADEMARK.md` for details.
