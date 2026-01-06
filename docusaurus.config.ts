@@ -2,8 +2,13 @@ import type { Config } from '@docusaurus/types';
 
 const config: Config = {
   title: 'Open Heat',
-  url: 'https://openheat.org',
-  baseUrl: '/',
+  url: "https://openheat.org",
+  baseUrl: "/",
+
+  organizationName: "openheat",
+  projectName: "openheat",
+
+  trailingSlash: false,
 
   presets: [
     [
@@ -11,7 +16,7 @@ const config: Config = {
       {
         docs: {
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.ts'),
+          sidebarPath: require.resolve('./config/sidebars.ts'),
         },
         blog: false,
         theme: {
