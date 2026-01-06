@@ -19,7 +19,7 @@ These identifiers may not be used in a way that implies endorsement, sponsorship
 
 ## Stewardship
 
-Until a dedicated legal structure exists, **Firehub serves as the administrative steward** of Open Heat Initiative brand assets, including domains and trademarks.
+Until a dedicated legal structure exists, **Firehub, LLC serves as the administrative steward** of Open Heat Initiative brand assets, including domains and trademarks.
 
 This stewardship exists solely to prevent misuse and confusion and does not grant ownership or control of the Community Code or its content.
 

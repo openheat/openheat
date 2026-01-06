@@ -1,4 +1,4 @@
-![Open Heat Initiative Banner](assets/banner.png)
+![Open Heat Initiative Banner](static/img/banner.png)
 
 # Open Heat Initiative
 
@@ -7,6 +7,8 @@ The **Open Heat Initiative** is a community owned, open source effort to support
 It provides shared, values driven standards that communities can use, adapt, and build upon without central ownership or control.
 
 This repository hosts the **Open Heat Community Code**, the first resource released as part of the Initiative.
+
+If you want to contribute, start in `docs/`.
 
 ---
 
