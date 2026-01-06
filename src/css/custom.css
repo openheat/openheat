@@ -1,0 +1,50 @@
+:root {
+  --openheat-blue: #44a6d6;
+  --openheat-blue-dark: #3b95c1;
+  --openheat-blue-darker: #3486ad;
+  --openheat-blue-light: #5ab2dc;
+  --openheat-blue-lighter: #74c0e6;
+  --openheat-blue-lightest: #a2d7f1;
+
+  --openheat-teal: #70cbbe;
+  --openheat-green: #a2d88b;
+  --openheat-black: #0b0f14;
+
+  --ifm-color-primary: var(--openheat-blue);
+  --ifm-color-primary-dark: var(--openheat-blue-dark);
+  --ifm-color-primary-darker: var(--openheat-blue-darker);
+  --ifm-color-primary-light: var(--openheat-blue-light);
+  --ifm-color-primary-lighter: var(--openheat-blue-lighter);
+  --ifm-color-primary-lightest: var(--openheat-blue-lightest);
+
+  --ifm-font-family-base:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #5fbce6;
+  --ifm-color-primary-dark: #4fb1de;
+  --ifm-color-primary-darker: #45a8d7;
+  --ifm-color-primary-light: #78c9ec;
+  --ifm-color-primary-lighter: #91d6f1;
+  --ifm-color-primary-lightest: #bce9f8;
+}
+
+html,
+body,
+#__docusaurus {
+  height: 100%;
+}
+
+.main-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
