@@ -2,7 +2,7 @@ import type { Config } from '@docusaurus/types';
 
 const config: Config = {
   title: 'Open Heat',
-  url: "https://openheat.org",
+  url: "https://www.openheat.org",
   baseUrl: "/",
 
   organizationName: "openheat",
