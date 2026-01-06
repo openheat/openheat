@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Initial version of the Open Heat Community Code
+- Added website
 - Adding changelog
 
 [unreleased]: https://github.com/openheat/openheat/compare/v0.1.0...HEAD

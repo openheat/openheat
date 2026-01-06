@@ -1,3 +1,8 @@
+---
+title: Open Heat Community Code
+sidebar_position: 1
+---
+
 # Open Heat Community Code
 
 A shared foundation of values for the global spicy community.

@@ -1,0 +1,9 @@
+{
+  "label": "Standards",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Open, community-driven standards for the global spicy community.",
+    "slug": "/standards"
+  }
+}

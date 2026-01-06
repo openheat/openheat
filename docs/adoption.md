@@ -1,3 +1,8 @@
+---
+title: Adoption
+sidebar_position: 1
+---
+
 ## How to Adopt These Standards
 
 Open Heat standards are intentionally flexible and may be adopted in a variety of ways.
